@@ -46,6 +46,7 @@ Infinity
 These servers are version ``2.0.0``.
 
 * ``infinity-new.mym.li`` - normal mode
+* ``infinity2.mym.li`` - normal mode
 * ``evolved.mym.li`` - expert mode
 * ``evolved2.mym.li`` - expert mode
 
@@ -55,7 +56,10 @@ Pixelmon
 
 Regrowth
 ^^^^^^^^
+.. note:: These servers are both standalone!
+
 * ``regrowth.mym.li`` - Version ``0.8.2``.
+* ``regrowth2.mym.li`` - Version ``0.8.2``.
 
 SkyFactory 2
 ^^^^^^^^^^^^
