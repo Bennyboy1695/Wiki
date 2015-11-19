@@ -33,7 +33,7 @@ Technic Launcher
 
 1. Open the Launcher
 2. Select the modpack and click on the small `gearwheel <https://i.imgur.com/23B1fW9.png>`_ below the modapck on the right site
-3. Now you click on ``OpenFolder`` and open the ``crash-reports`` folder.
+3. Now you click on ``OpenFolder``, and open the ``crash-reports`` folder.
 4. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
 5. Click on the ``Submit`` button and copy the web link.
 6. Paste the link in the forum thread/webchat/ticket.
